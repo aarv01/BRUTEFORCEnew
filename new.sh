@@ -254,10 +254,7 @@ sleep 2
 echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
-sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
-sleep 2
+sle
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
 fi
